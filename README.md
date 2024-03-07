@@ -5,7 +5,7 @@ i want to work every day in github during 2 years on zksync projects.
 zk is the best roll up for tps    !                  
 
                                       
-YES I'M ZKSYNC / scroll CODER  because is open source      
+YES I'M ZKSYNC / scroll CODER  because is open source       
   
 lepetitpaul/lepetitpaul is a ✨ special ✨ repository because its `README.md` (this file) appears on  your GitHub profile.
 You can click the Preview link to take a look at your changes.
