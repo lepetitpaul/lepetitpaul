@@ -1,7 +1,7 @@
   - 👋 Hi, I’m @lepetitpaul
 - 👀 I’m interested in zk sync era
 i try to deploy contract on this blockchain and make the best swap dex agregator.
-i want to work every day in github during 2 years on zksync projects.        
+i want to work every day in github during 2 years on zksync projects.           
 zk is the best roll up for tps    !                  
  
                                       
